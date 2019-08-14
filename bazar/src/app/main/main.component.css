@@ -1,0 +1,30 @@
+.body{
+  margin-right: 55px;
+
+}
+.card{
+    box-shadow: 1px 1px 1px 1px rgb(136, 135, 185);
+    display: inline-block;
+    width:20%;
+margin: 1rem;
+    
+}
+.card img{
+    width:6rem;
+    height: 6rem;
+}
+.card-body{
+    width: 6rem;
+    height: 3rem;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+a{
+    text-decoration:none;
+    color: rgb(38, 40, 49);
+}
+a:hover{
+    color: rgb(117, 75, 214);
+
+
+}
